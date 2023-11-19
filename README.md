@@ -7,7 +7,8 @@
 
 ## 🚀 About Me
 
-I'm a passionate [Your Profession/Interest] based in [Your Location]. My goal is to [Your Goal or Mission]. I enjoy working on [Your Interests], and I'm always open to collaborating on interesting projects.
+I'm a passionate software developer. My goal is to create innovative solutions that make a positive impact on people's lives. I enjoy working on various software and computer-related projects, and I'm always open to collaborating on interesting and challenging endeavors.
+
 
 ## 🔧 Technologies & Tools
 
@@ -27,11 +28,10 @@ I'm currently focused on improving my skills in **React.js**. Always eager to ex
 
 ## 📫 How to reach me
 
-- Email: your.maulikpaneliya0025@gmail.com
+- Email: maulikpaneliya0025@gmail.com
 
 ## 🌐 My Links
-
-- [Portfolio]([https://yourportfolio.com](https://maulikpaneliya.netlify.app/))
+- [Portfolio](https://maulikpaneliya.netlify.app/)
 
 ## ⚡ Fun Fact
 
