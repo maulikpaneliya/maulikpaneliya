@@ -21,7 +21,7 @@ I'm currently focused on improving my skills in **React.js**. Always eager to ex
 
 ## 💼 Work
 
-- Currently working at Dolphin Web Solutions
+- Currently working at Dolphin Web Solutions as Backend Developer
 - Check out my [portfolio](https://maulikpaneliya.netlify.app/)
 
 ## 📫 How to reach me
