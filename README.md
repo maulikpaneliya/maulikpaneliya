@@ -35,5 +35,5 @@ I'm currently focused on improving my skills in **React.js**. Always eager to ex
 
 ## ⚡ Fun Fact
 
-I am a Full Stack Developer!
+Error 404
 
