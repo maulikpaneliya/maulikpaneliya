@@ -2,38 +2,41 @@
 
 [![Linkedin: maulik paneliya](https://img.shields.io/badge/-Maulik%20Paneliya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maulik-paneliya-197a7b201/)](https://www.linkedin.com/in/maulik-paneliya-197a7b201/)
 [![Instagram: maulik_paneliya](https://img.shields.io/badge/-Official%20Maulik%20Paneliya-833ab4?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/official_maulik_paneliya/)](https://www.instagram.com/official_maulik_paneliya/)
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/your_twitter_handle?label=Follow&style=social)](https://twitter.com/i_am_maulik_)
+[![Twitter Follow](https://img.shields.io/twitter/follow/i_am_maulik_?label=Follow&style=social)](https://twitter.com/i_am_maulik_)
 
 ## 🚀 About Me
 
-I'm a passionate software developer. My goal is to create innovative solutions that make a positive impact on people's lives. I enjoy working on various software and computer-related projects, and I'm always open to collaborating on interesting and challenging endeavors.
-
+I'm a passionate software developer dedicated to crafting innovative solutions that enhance people's lives. I thrive on tackling diverse software and computer-related projects, always eager to collaborate on intriguing and challenging endeavors.
 
 ## 🔧 Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-Tool-yellow?style=flat-square&logo=javascript)
 ![PHP](https://img.shields.io/badge/PHP-Tool-purple?style=flat-square&logo=php)
-
+![Java](https://img.shields.io/badge/Java-Tool-red?style=flat-square&logo=java)
+![Laravel](https://img.shields.io/badge/Laravel-Tool-red?style=flat-square&logo=laravel)
+![MySQL](https://img.shields.io/badge/MySQL-Tool-red?style=flat-square&logo=mysql)
+![Vue.js](https://img.shields.io/badge/Vue.js-Tool-red?style=flat-square&logo=vue.js)
 
 ## 🌱 I’m currently learning
 
-I'm currently focused on improving my skills in **React.js**. Always eager to explore new technologies and tools.
-
+I'm currently immersed in enhancing my proficiency in **React.js**, fueled by a perpetual curiosity for exploring new technologies and tools.
 
 ## 💼 Work
 
-- Currently working at Dolphin Web Solutions as Backend Developer
-- Check out my [portfolio](https://maulikpaneliya.netlify.app/)
+- Presently contributing as a Fullstack Developer at FinchWeb Technologies.
+- Explore my [portfolio](https://maulikpaneliya.netlify.app/) to see my work.
+- Need web development services? Hire me for your projects on [Freelancer](https://www.freelancer.com/u/maulik0025).
+
 
 ## 📫 How to reach me
 
-- Email: maulikpaneliya0025@gmail.com
+- Reach out via Email: maulikpaneliya0025@gmail.com
 
-## 🌐 My Links
+## 🌐 Important Links
+
 - [Portfolio](https://maulikpaneliya.netlify.app/)
+- [Social Media](https://mauliksocialtree.netlify.app/)
 
 ## ⚡ Fun Fact
 
-Error 404
-
+Error 404: Humor not found. But innovation? That's always on the way!
