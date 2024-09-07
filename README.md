@@ -25,7 +25,7 @@ I'm currently immersed in enhancing my proficiency in **React.js**, fueled by a 
 
 - Presently contributing as a Fullstack Developer at FinchWeb Technologies.
 - Explore my [portfolio](https://maulikpaneliya.netlify.app/) to see my work.
-- Need web development services? Hire me for your projects on [Freelancer](https://www.freelancer.com/u/maulik0025).
+- Need web development services? Hire me for your projects on [Freelancer](https://www.freelancer.com/u/maulik0026).
 
 
 ## 📫 How to reach me
@@ -35,7 +35,6 @@ I'm currently immersed in enhancing my proficiency in **React.js**, fueled by a 
 ## 🌐 Important Links
 
 - [Portfolio](https://maulikpaneliya.netlify.app/)
-- [Social Media](https://mauliksocialtree.netlify.app/)
 
 ## ⚡ Fun Fact
 
