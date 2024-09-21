@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Maulik Paneliya!
 
 [![Linkedin: maulik paneliya](https://img.shields.io/badge/-Maulik%20Paneliya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maulik-paneliya-197a7b201/)](https://www.linkedin.com/in/maulik-paneliya-197a7b201/)
-[![Instagram: maulik_paneliya](https://img.shields.io/badge/-Official%20Maulik%20Paneliya-833ab4?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/maulik.paneliya/)](https://www.instagram.com/maulik.paneliya/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/i_am_maulik_?label=Follow&style=social)](https://twitter.com/i_am_maulik_)
+[![Instagram: maulik_paneliya](https://img.shields.io/badge/%20Maulik%20Paneliya-833ab4?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/maulik.paneliya/)](https://www.instagram.com/maulik.paneliya/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/i_am_maulik_?label=&style=social)](https://twitter.com/i_am_maulik_)
 
 ## 🚀 About Me
 
