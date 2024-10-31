@@ -14,11 +14,11 @@ I'm a passionate software developer dedicated to crafting innovative solutions t
 ![PHP](https://img.shields.io/badge/PHP-Tool-purple?style=flat-square&logo=php)
 ![Java](https://img.shields.io/badge/Java-Tool-red?style=flat-square&logo=java)
 ![Laravel](https://img.shields.io/badge/Laravel-Tool-red?style=flat-square&logo=laravel)
+![Vue.js](https://img.shields.io/badge/Vue.js-Tool-red?style=flat-square&logo=vue.js)
 ![MySQL](https://img.shields.io/badge/MySQL-Tool-red?style=flat-square&logo=mysql)
 ![PgSQL](https://img.shields.io/badge/PgSQL-Tool-red?style=flat-square&logo=pgsql)
-![MsSQL](https://img.shields.io/badge/MySQL-Tool-red?style=flat-square&logo=mssql)
+![MsSQL](https://img.shields.io/badge/MsSQL-Tool-red?style=flat-square&logo=mssql)
 
-![Vue.js](https://img.shields.io/badge/Vue.js-Tool-red?style=flat-square&logo=vue.js)
 
 ## 🌱 I’m currently learning
 
