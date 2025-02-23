@@ -2,7 +2,7 @@
 
 [![Linkedin: maulik paneliya](https://img.shields.io/badge/-Maulik%20Paneliya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maulik-paneliya-197a7b201/)](https://www.linkedin.com/in/maulik-paneliya-197a7b201/)
 [![Instagram: maulik_paneliya](https://img.shields.io/badge/%20Maulik%20Paneliya-833ab4?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/maulik.paneliya/)](https://www.instagram.com/maulik.paneliya/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/i_am_maulik_?label=&style=social)](https://twitter.com/i_am_maulik_)
+[![Twitter Follow](https://img.shields.io/twitter/follow/paneliya_maulik?label=&s)](https://twitter.com/paneliya_maulik)
 
 ## 🚀 About Me
 
@@ -10,19 +10,14 @@ I'm a passionate software developer dedicated to crafting innovative solutions t
 
 ## 🔧 Technologies & Tools
 
-![JavaScript](https://img.shields.io/badge/JavaScript-Tool-yellow?style=flat-square&logo=javascript)
 ![PHP](https://img.shields.io/badge/PHP-Tool-purple?style=flat-square&logo=php)
-![Java](https://img.shields.io/badge/Java-Tool-red?style=flat-square&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-Tool-yellow?style=flat-square&logo=javascript)
 ![Laravel](https://img.shields.io/badge/Laravel-Tool-red?style=flat-square&logo=laravel)
-![Vue.js](https://img.shields.io/badge/Vue.js-Tool-red?style=flat-square&logo=vue.js)
 ![MySQL](https://img.shields.io/badge/MySQL-Tool-red?style=flat-square&logo=mysql)
-![PgSQL](https://img.shields.io/badge/PgSQL-Tool-red?style=flat-square&logo=pgsql)
-![MsSQL](https://img.shields.io/badge/MsSQL-Tool-red?style=flat-square&logo=mssql)
-
 
 ## 🌱 I’m currently learning
 
-I'm currently immersed in enhancing my proficiency in **React.js**, fueled by a perpetual curiosity for exploring new technologies and tools.
+I'm currently immersed in enhancing my proficiency in **Vue.js**, fueled by a perpetual curiosity for exploring new technologies and tools.
 
 ## 💼 Work
 
